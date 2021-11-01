@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="logoName">\"Поле чудес\"</string>
+    <string name="pressToStart">Нажмите чтобы начать</string>
+    <string name="lvl_1">уровень сложности - легко</string>
+    <string name="lvl_2">уровень сложности - нормально</string>
+    <string name="lvl_3">уровень сложности - сложно</string>
+    <string name="palyer1">Игрок 1</string>
+    <string name="palyer2">Игрок 2</string>
+    <string name="palyer3">Игрок 3</string>
+    <string name="GameQuest">Отгодайте слово</string>
+    <string name="EnterCharacter">Введите букву</string>
+    <string name="go">Крутить</string>
+    
+    
+    
+    <string name="Error01">Error_01_changeLvL_game</string>
+    <string name="Error02">Error02_switchPlayers</string>
+
+
+</resources>
